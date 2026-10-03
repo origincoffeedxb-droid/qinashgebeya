@@ -1,0 +1,9 @@
+{
+  "name": "qinash-gebeya-marketplace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Qinash Gebeya marketplace starter: storefront, merchant API and COD order dashboard",
+  "scripts": { "start": "node backend/server.js" },
+  "engines": { "node": ">=18" },
+  "optionalDependencies": { "nodemailer": "^6.9.16" }
+}
